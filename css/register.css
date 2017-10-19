@@ -1,7 +1,41 @@
 body{
 	   font-family: 'Nunito', sans-serif;
+	   background: linear-gradient(141deg, #0fb8ad , #1fc8db , #2cb5e8 );
 }
 section{
 	padding-top:2rem;
 	padding-bottom:2rem;
+}
+/*all-class*/
+.all-input{
+	padding-top:3rem;
+}
+h1:after{
+	display:block;
+	width:40%;
+	height:.3rem;
+	background:black;
+	content: " ";
+	margin-top:1rem;
+}
+/**/
+.bottom{
+	margin-top: 1rem;
+    height: 5rem;
+    width: 23rem;
+    background: brown;
+    border-radius: 1rem;
+    border: 1px solid white;
+    color: white;
+}
+.bottom:hover{
+    background: bottom;
+    color: black;
+	  border: 1px solid black;
+}
+label {
+    padding-top: 1rem;
+}
+.data-style{
+	width: 15rem;
 }
