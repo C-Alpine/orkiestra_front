@@ -1,0 +1,48 @@
+body{
+	   background:#7f0000;
+	   font-family: 'Nunito', sans-serif;
+}
+/*icon*/
+.fa{
+	font-size: 3rem !important;
+	    line-height: 5rem !important;
+}
+.fa-facebook-square{
+	color: royalblue;
+	padding-right:1rem;
+}
+.fa-youtube-square{
+	    color: brown;
+}
+/*nav*/
+nav{
+	padding-top:1rem;
+	padding-bottom:1rem;
+}
+
+.navbar-default {
+    background-color: #000;
+    border-color: #000;
+}
+.navbar {
+    border-radius: 4px;
+    margin: 0;
+}
+.logo{
+	height:12rem;
+	padding: 1rem;
+}
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+/*slider*/
+	.res-slider{
+		
+	}
+	.slider{
+	width: 100%;
+	height:100%
+	}
+	.mySlides{
+	width: 100%;
+	}
